@@ -7,6 +7,7 @@ public class GT4500 implements SpaceShip {
 
   private TorpedoStore primaryTorpedoStore;
   private TorpedoStore secondaryTorpedoStore;
+  private boolen testbool = true; 
 
   private boolean wasPrimaryFiredLast = false;
 
